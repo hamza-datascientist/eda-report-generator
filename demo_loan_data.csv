@@ -1,0 +1,501 @@
+customer_id,age,annual_income,credit_score,loan_amount,loan_term_months,employment_type,education,default,num_prev_loans,city
+1001,56.0,32955.98,813.0,42411.99,12,Salaried,Bachelor's,0,2,Chennai
+1002,69.0,81753.18,761.0,98984.38,48,Salaried,Bachelor's,0,3,Pune
+1003,46.0,30469.69,533.0,19864.67,36,Freelance,Bachelor's,0,1,Chennai
+1004,32.0,45759.66,,22859.81,48,Self-employed,Bachelor's,0,2,Hyderabad
+1005,60.0,66369.47,630.0,16893.01,48,Salaried,Bachelor's,0,1,Mumbai
+1006,,82409.26,682.0,11946.51,24,Salaried,Bachelor's,0,3,Pune
+1007,38.0,23856.74,721.0,16003.74,12,Self-employed,Bachelor's,0,0,Hyderabad
+1008,56.0,40106.72,622.0,10105.63,60,Freelance,Master's,0,3,Chennai
+1009,36.0,36865.55,695.0,27646.84,12,Freelance,Bachelor's,0,2,Chennai
+1010,40.0,33123.64,,14530.74,60,Self-employed,Bachelor's,0,1,Pune
+1011,28.0,141389.33,631.0,32436.15,12,Salaried,Bachelor's,0,1,Mumbai
+1012,28.0,62504.2,567.0,7748.72,48,Salaried,Master's,0,1,Chennai
+1013,41.0,23005.06,606.0,35056.07,36,Freelance,,0,0,Bangalore
+1014,70.0,,,52408.45,36,Salaried,Bachelor's,0,0,Hyderabad
+1015,53.0,175131.73,,5458.95,24,Salaried,Bachelor's,1,6,Pune
+1016,57.0,91078.69,764.0,36288.1,60,Salaried,PhD,1,2,Delhi
+1017,41.0,19700.08,604.0,71835.58,60,Self-employed,Bachelor's,0,1,Delhi
+1018,20.0,36660.66,850.0,10221.89,60,Freelance,Master's,1,0,Mumbai
+1019,39.0,104835.39,719.0,102545.09,48,Salaried,Bachelor's,0,0,Bangalore
+1020,70.0,32061.09,695.0,300937.12,60,Salaried,Bachelor's,0,3,Chennai
+1021,19.0,63977.81,611.0,15305.85,36,Self-employed,Master's,0,0,Delhi
+1022,41.0,78024.68,736.0,25729.28,48,Unemployed,Bachelor's,0,2,Mumbai
+1023,61.0,28108.91,634.0,42051.97,12,Salaried,Master's,0,1,Hyderabad
+1024,47.0,47300.91,690.0,28589.77,60,Salaried,Master's,0,3,Bangalore
+1025,55.0,7011.03,850.0,41398.7,60,Salaried,Master's,0,2,Bangalore
+1026,19.0,26512.39,672.0,12880.39,12,Freelance,High School,0,0,Mumbai
+1027,38.0,42127.63,772.0,30806.74,60,Salaried,Master's,0,1,Mumbai
+1028,50.0,23186.61,624.0,8682.18,12,Salaried,Bachelor's,1,3,Chennai
+1029,29.0,130541.54,677.0,24612.73,48,Self-employed,Master's,0,3,Mumbai
+1030,39.0,20783.51,822.0,13054.31,36,Self-employed,Bachelor's,0,2,Chennai
+1031,61.0,37645.67,630.0,14936.69,12,Salaried,Master's,0,1,Chennai
+1032,42.0,53021.05,825.0,72321.34,24,Freelance,Bachelor's,0,1,Pune
+1033,66.0,116397.22,737.0,64411.54,12,Salaried,Bachelor's,0,1,Bangalore
+1034,44.0,20712.29,635.0,43796.56,60,Self-employed,High School,0,4,Hyderabad
+1035,59.0,98508.51,731.0,11227.82,48,Salaried,Master's,0,0,Bangalore
+1036,45.0,49322.71,758.0,20886.81,48,Self-employed,Bachelor's,0,0,Bangalore
+1037,33.0,27203.33,730.0,71003.05,12,Salaried,Bachelor's,0,2,Pune
+1038,32.0,64683.54,554.0,30132.92,36,Freelance,Master's,0,1,Chennai
+1039,64.0,55239.62,622.0,172036.79,24,Self-employed,Bachelor's,0,2,Chennai
+1040,68.0,34196.2,660.0,36851.6,48,Self-employed,Bachelor's,0,2,Mumbai
+1041,61.0,51117.45,674.0,31371.0,60,Self-employed,Bachelor's,0,1,Pune
+1042,69.0,38902.42,730.0,21009.01,60,Self-employed,Bachelor's,0,4,Mumbai
+1043,20.0,52475.96,694.0,29936.47,36,Salaried,Bachelor's,1,6,Pune
+1044,54.0,72931.68,573.0,23813.89,48,Salaried,High School,1,4,Mumbai
+1045,68.0,126957.81,710.0,47405.19,12,Freelance,Bachelor's,1,1,Delhi
+1046,24.0,23325.69,729.0,57835.72,60,Salaried,Bachelor's,0,2,Bangalore
+1047,38.0,176278.43,725.0,14345.74,36,Self-employed,Master's,0,2,Bangalore
+1048,26.0,15195.39,766.0,9274.4,48,Unemployed,High School,0,0,Hyderabad
+1049,56.0,44753.68,747.0,6192.14,48,Salaried,Bachelor's,0,0,Chennai
+1050,35.0,69772.16,717.0,40392.24,48,Self-employed,Master's,0,0,Hyderabad
+1051,21.0,,674.0,11128.97,48,Salaried,High School,0,1,Delhi
+1052,42.0,33738.01,547.0,4806.32,48,Self-employed,Bachelor's,1,0,Hyderabad
+1053,31.0,43266.18,714.0,36712.14,60,Salaried,Master's,0,4,Bangalore
+1054,67.0,36468.33,,197678.97,36,Salaried,PhD,1,2,Chennai
+1055,26.0,34419.59,702.0,26772.84,48,Self-employed,Master's,0,1,Delhi
+1056,43.0,81614.42,578.0,52616.9,24,Freelance,Master's,0,2,Bangalore
+1057,70.0,60730.98,594.0,28723.29,24,Self-employed,Master's,0,0,Mumbai
+1058,19.0,32346.28,764.0,24856.84,36,Salaried,Bachelor's,0,0,Pune
+1059,37.0,84099.84,677.0,56120.77,12,Salaried,Master's,0,1,Delhi
+1060,45.0,58946.16,735.0,21328.09,12,Self-employed,High School,0,0,Chennai
+1061,64.0,,682.0,33320.03,12,Salaried,Master's,0,2,Hyderabad
+1062,24.0,71523.21,682.0,34799.5,24,Freelance,Bachelor's,0,1,Hyderabad
+1063,61.0,29810.11,755.0,15764.69,12,Freelance,Bachelor's,1,2,Delhi
+1064,25.0,35027.59,639.0,59494.19,60,Self-employed,Bachelor's,1,0,Chennai
+1065,64.0,76755.18,688.0,23389.26,48,Freelance,Master's,1,1,Delhi
+1066,52.0,70701.51,643.0,14697.08,24,Salaried,High School,0,0,Chennai
+1067,31.0,48409.87,645.0,41324.38,36,Self-employed,Master's,0,1,Hyderabad
+1068,34.0,52596.06,655.0,13111.25,36,Salaried,Master's,0,2,Bangalore
+1069,53.0,105514.0,698.0,27516.61,48,Freelance,Bachelor's,0,0,Mumbai
+1070,67.0,,642.0,26707.64,24,Salaried,Master's,0,0,Bangalore
+1071,57.0,,780.0,64133.14,12,Self-employed,Master's,0,3,Mumbai
+1072,21.0,43420.39,608.0,39330.62,12,Freelance,Bachelor's,0,2,Hyderabad
+1073,19.0,43018.75,665.0,26369.9,60,Salaried,Bachelor's,0,2,Bangalore
+1074,23.0,94775.49,645.0,51751.72,60,Salaried,Bachelor's,0,3,Bangalore
+1075,71.0,80438.63,796.0,81810.92,12,Self-employed,Bachelor's,0,1,Delhi
+1076,59.0,79866.02,696.0,42034.59,36,Salaried,,0,1,Pune
+1077,21.0,107289.63,763.0,27126.93,36,Salaried,Master's,0,2,Hyderabad
+1078,71.0,49642.49,561.0,9419.44,60,Salaried,High School,0,3,Chennai
+1079,46.0,73804.26,701.0,11474.81,48,Salaried,Master's,0,1,Hyderabad
+1080,35.0,40694.16,751.0,21074.52,12,Freelance,Bachelor's,0,1,Chennai
+1081,43.0,59545.73,687.0,16521.04,60,Self-employed,Bachelor's,0,2,Chennai
+1082,61.0,,765.0,23165.58,60,Salaried,Master's,0,1,Mumbai
+1083,51.0,51958.34,639.0,28150.49,12,Salaried,Master's,0,1,Chennai
+1084,27.0,70059.08,793.0,41099.62,12,Salaried,Bachelor's,0,1,Chennai
+1085,53.0,30003.45,850.0,25427.87,36,Salaried,Bachelor's,0,0,Delhi
+1086,31.0,172031.41,651.0,39703.77,48,Salaried,Bachelor's,1,0,Bangalore
+1087,48.0,26806.23,644.0,28327.25,48,Salaried,High School,0,0,Hyderabad
+1088,65.0,23658.72,,5539.32,12,Salaried,Bachelor's,0,0,Hyderabad
+1089,32.0,98210.31,806.0,12689.52,24,Self-employed,Bachelor's,0,4,Chennai
+1090,25.0,78825.96,638.0,23974.11,60,Salaried,Bachelor's,0,1,Pune
+1091,31.0,,646.0,10221.45,60,Self-employed,Master's,0,1,Hyderabad
+1092,40.0,71468.16,657.0,43475.07,12,Self-employed,Bachelor's,0,0,Chennai
+1093,57.0,48661.91,,91546.35,24,Self-employed,Bachelor's,0,0,Mumbai
+1094,38.0,,607.0,71325.52,36,Self-employed,Bachelor's,0,2,Mumbai
+1095,33.0,51301.88,600.0,22680.16,12,Salaried,Master's,0,0,Mumbai
+1096,62.0,32653.36,619.0,88661.49,12,Freelance,Master's,0,1,Chennai
+1097,35.0,87998.22,677.0,30300.94,60,Self-employed,Bachelor's,1,0,Delhi
+1098,64.0,44880.81,699.0,20544.14,12,Salaried,Master's,0,1,Pune
+1099,70.0,29872.74,804.0,16469.7,12,Freelance,Bachelor's,1,1,Chennai
+1100,41.0,40423.58,600.0,21121.02,12,Self-employed,Bachelor's,0,3,Delhi
+1101,43.0,62803.05,759.0,19721.38,60,Salaried,,1,2,Delhi
+1102,42.0,,663.0,30832.76,36,Salaried,Bachelor's,1,1,Hyderabad
+1103,62.0,29931.53,676.0,30590.94,36,Salaried,Master's,0,0,Chennai
+1104,58.0,56738.73,734.0,26968.82,12,Freelance,Master's,0,1,Chennai
+1105,46.0,56782.3,590.0,38160.28,60,Self-employed,High School,0,2,Delhi
+1106,32.0,36164.53,711.0,69739.14,36,Freelance,Bachelor's,0,3,Delhi
+1107,62.0,36952.07,693.0,57505.93,36,Self-employed,Bachelor's,0,1,Delhi
+1108,18.0,56343.94,719.0,65612.64,36,Salaried,High School,0,0,Hyderabad
+1109,42.0,20560.96,703.0,3487.23,60,Salaried,Bachelor's,0,3,Chennai
+1110,24.0,21068.24,850.0,56809.33,60,Self-employed,Bachelor's,0,1,Delhi
+1111,26.0,31854.48,629.0,9013.67,12,Self-employed,High School,1,5,Mumbai
+1112,41.0,43128.17,638.0,22475.65,48,Unemployed,Bachelor's,0,1,Chennai
+1113,18.0,59073.9,630.0,10550.3,36,Salaried,Bachelor's,0,1,Hyderabad
+1114,61.0,118802.02,636.0,6364.02,48,Salaried,Bachelor's,0,5,Mumbai
+1115,25.0,82009.94,629.0,41488.44,60,Self-employed,Master's,1,0,Bangalore
+1116,41.0,44535.28,775.0,49381.15,60,Self-employed,Bachelor's,0,2,Chennai
+1117,28.0,48464.67,794.0,16963.03,60,Self-employed,PhD,0,1,Bangalore
+1118,68.0,26862.39,,3385.19,48,Self-employed,Bachelor's,0,1,Delhi
+1119,34.0,48479.3,613.0,17378.77,60,Salaried,Master's,0,0,Hyderabad
+1120,25.0,41225.19,718.0,36807.0,12,Self-employed,Master's,0,0,Delhi
+1121,52.0,59494.02,636.0,8240.95,60,Self-employed,Master's,1,2,Hyderabad
+1122,52.0,29841.68,731.0,31153.69,24,Freelance,Bachelor's,0,2,Pune
+1123,50.0,66943.74,696.0,26575.69,48,Freelance,Master's,0,1,Delhi
+1124,22.0,122963.56,559.0,42763.2,24,Salaried,Bachelor's,1,3,Bangalore
+1125,59.0,45924.04,804.0,29603.99,60,Salaried,Bachelor's,0,1,Hyderabad
+1126,56.0,62381.69,824.0,12351.65,12,Unemployed,Bachelor's,0,0,Delhi
+1127,58.0,74167.88,631.0,70070.5,36,Salaried,Bachelor's,1,1,Chennai
+1128,45.0,38532.9,649.0,23698.72,60,Freelance,High School,0,1,Hyderabad
+1129,24.0,56075.57,703.0,26321.89,12,Salaried,PhD,0,2,Hyderabad
+1130,26.0,49392.58,707.0,12751.26,48,Self-employed,Master's,0,3,Delhi
+1131,25.0,51979.55,733.0,18870.86,24,Freelance,Bachelor's,0,4,Pune
+1132,29.0,30828.48,841.0,13255.37,24,Freelance,PhD,0,2,Delhi
+1133,51.0,,666.0,23426.97,24,Salaried,Bachelor's,0,0,Bangalore
+1134,50.0,66091.73,616.0,105806.45,48,Self-employed,PhD,0,1,Bangalore
+1135,65.0,117088.6,570.0,8977.52,12,Salaried,Bachelor's,1,2,Hyderabad
+1136,40.0,87165.38,622.0,7399.38,48,Salaried,High School,0,0,Hyderabad
+1137,41.0,178422.48,677.0,87285.21,24,Self-employed,Master's,1,0,Delhi
+1138,54.0,30933.39,824.0,22755.02,60,Self-employed,Master's,1,4,Bangalore
+1139,52.0,82734.53,639.0,15752.3,36,Freelance,Master's,0,2,Bangalore
+1140,61.0,54721.13,698.0,61816.39,48,Salaried,PhD,0,3,Pune
+1141,57.0,182386.21,679.0,16572.63,48,Salaried,Master's,0,2,Chennai
+1142,39.0,30182.6,775.0,115937.64,12,Salaried,Bachelor's,0,0,Pune
+1143,44.0,29618.87,850.0,46274.24,12,Salaried,,1,1,Mumbai
+1144,52.0,34213.12,638.0,18208.99,48,Salaried,Master's,0,1,Pune
+1145,18.0,13707.01,641.0,151122.58,24,Self-employed,Bachelor's,0,3,Delhi
+1146,52.0,35758.63,764.0,16571.31,36,Salaried,Master's,0,1,Chennai
+1147,54.0,31086.24,735.0,48711.79,12,Freelance,Bachelor's,0,0,Delhi
+1148,64.0,53649.97,828.0,34181.3,24,Unemployed,Master's,0,1,Mumbai
+1149,31.0,60177.49,,76221.06,60,Self-employed,Master's,0,0,Chennai
+1150,20.0,151100.81,651.0,93827.1,12,Freelance,Master's,0,1,Hyderabad
+1151,18.0,86703.91,727.0,27600.89,24,Self-employed,Master's,0,1,Bangalore
+1152,22.0,34677.9,769.0,14724.47,24,Salaried,Master's,0,2,Pune
+1153,43.0,28593.97,746.0,38869.99,36,Salaried,Bachelor's,0,1,Delhi
+1154,31.0,65851.11,721.0,15643.76,36,Salaried,Master's,0,1,Mumbai
+1155,56.0,22200.28,765.0,134687.13,60,Self-employed,Bachelor's,1,1,Bangalore
+1156,44.0,147101.08,774.0,30008.27,24,Freelance,High School,0,1,Pune
+1157,26.0,99475.24,791.0,20085.29,24,Salaried,Bachelor's,0,1,Bangalore
+1158,32.0,36993.39,732.0,31186.61,36,Freelance,Bachelor's,0,1,Pune
+1159,32.0,,667.0,9157.23,12,Self-employed,Bachelor's,0,1,Hyderabad
+1160,43.0,,692.0,12366.03,12,Salaried,Master's,1,0,Chennai
+1161,59.0,45765.06,777.0,70286.23,48,Unemployed,Bachelor's,0,1,Bangalore
+1162,30.0,103021.17,615.0,15906.52,36,Salaried,Bachelor's,0,0,Bangalore
+1163,68.0,18832.58,709.0,11643.13,48,Salaried,High School,0,1,Bangalore
+1164,49.0,34213.48,649.0,41329.1,36,Self-employed,Bachelor's,0,0,Chennai
+1165,56.0,49175.27,,69463.96,60,Salaried,Bachelor's,0,2,Mumbai
+1166,66.0,50422.28,782.0,47818.25,24,Self-employed,High School,0,1,Pune
+1167,69.0,37420.0,695.0,59685.13,60,Salaried,Bachelor's,0,1,Hyderabad
+1168,49.0,71232.89,684.0,14684.74,36,Salaried,Bachelor's,0,0,Bangalore
+1169,21.0,25833.51,571.0,8626.13,24,Unemployed,High School,0,1,Chennai
+1170,47.0,45006.95,740.0,89417.07,12,Salaried,Bachelor's,1,3,Mumbai
+1171,54.0,52689.81,732.0,20782.28,12,Salaried,High School,0,1,Pune
+1172,40.0,66746.91,850.0,22011.79,48,Salaried,Master's,0,0,Chennai
+1173,56.0,75129.53,,77851.26,36,Freelance,Master's,0,0,Hyderabad
+1174,62.0,24964.62,698.0,41981.49,36,Salaried,Bachelor's,1,2,Hyderabad
+1175,32.0,19526.57,700.0,38743.19,12,Salaried,PhD,0,2,Pune
+1176,60.0,105514.76,806.0,152055.65,60,Salaried,Bachelor's,1,1,Bangalore
+1177,46.0,,672.0,16077.65,24,Salaried,Bachelor's,0,4,Hyderabad
+1178,53.0,31285.44,702.0,56515.61,60,Freelance,PhD,0,1,Mumbai
+1179,30.0,124329.58,729.0,28158.67,60,Self-employed,Bachelor's,0,2,Chennai
+1180,49.0,52543.93,695.0,33352.03,12,Salaried,PhD,0,1,Mumbai
+1181,24.0,99466.71,644.0,91379.34,12,Self-employed,High School,0,1,Bangalore
+1182,68.0,51047.46,696.0,40387.22,12,Salaried,Bachelor's,0,5,Mumbai
+1183,39.0,168796.44,766.0,41383.47,48,Unemployed,High School,0,1,Mumbai
+1184,45.0,140533.97,598.0,63449.9,60,Unemployed,Master's,0,0,Delhi
+1185,19.0,42218.83,691.0,160729.68,36,Salaried,Bachelor's,0,1,Mumbai
+1186,59.0,87811.05,624.0,13747.77,24,Freelance,Master's,0,0,Pune
+1187,62.0,72202.18,776.0,11662.72,48,Self-employed,Bachelor's,0,0,Chennai
+1188,70.0,111433.02,558.0,5579.84,36,Salaried,Bachelor's,0,0,Delhi
+1189,23.0,27475.39,635.0,139380.89,60,Salaried,High School,0,1,Chennai
+1190,45.0,73985.98,710.0,11130.38,12,Salaried,Bachelor's,0,0,Chennai
+1191,45.0,92508.4,,22538.88,60,Self-employed,Master's,1,1,Bangalore
+1192,61.0,,675.0,21559.02,24,Unemployed,Bachelor's,0,1,Bangalore
+1193,61.0,24101.87,636.0,34403.91,48,Self-employed,Master's,0,3,Delhi
+1194,37.0,14421.29,830.0,51667.79,48,Freelance,Master's,0,1,Hyderabad
+1195,47.0,41704.15,564.0,53550.41,24,Self-employed,Bachelor's,1,1,Bangalore
+1196,28.0,75397.2,504.0,16874.15,36,Freelance,Bachelor's,0,1,Bangalore
+1197,45.0,120742.35,715.0,23536.38,36,Self-employed,High School,0,0,Bangalore
+1198,42.0,51249.28,640.0,33727.34,48,Salaried,High School,1,1,Chennai
+1199,56.0,130244.58,598.0,22049.54,48,Self-employed,High School,0,0,Delhi
+1200,50.0,21416.98,737.0,97331.35,12,Freelance,Bachelor's,0,3,Chennai
+1201,18.0,17640.82,700.0,39846.11,36,Salaried,Bachelor's,0,1,Pune
+1202,44.0,47413.93,635.0,48431.33,24,Freelance,Bachelor's,0,0,Chennai
+1203,69.0,61724.69,,45720.64,36,Salaried,Bachelor's,0,1,Pune
+1204,30.0,48068.54,750.0,68787.62,12,Salaried,Bachelor's,1,1,Mumbai
+1205,58.0,14179.25,732.0,31095.46,48,Freelance,Master's,0,5,Mumbai
+1206,20.0,46468.41,672.0,9533.19,48,Salaried,Master's,1,1,Pune
+1207,56.0,22411.25,828.0,37039.88,12,Salaried,High School,0,2,Pune
+1208,23.0,73262.45,594.0,15977.14,24,Salaried,Bachelor's,0,2,Chennai
+1209,25.0,61081.17,558.0,17625.58,48,Freelance,Master's,0,1,Pune
+1210,44.0,27891.36,625.0,43005.84,60,Salaried,Bachelor's,0,2,Delhi
+1211,,36014.61,676.0,72448.15,48,Freelance,Master's,0,3,Mumbai
+1212,54.0,25964.15,699.0,27364.92,60,Salaried,Bachelor's,0,1,Mumbai
+1213,50.0,47211.49,661.0,34443.18,12,Unemployed,Bachelor's,0,2,Hyderabad
+1214,68.0,86949.73,,105005.91,12,Unemployed,High School,0,1,Pune
+1215,59.0,27134.58,580.0,32617.44,48,Salaried,Bachelor's,0,1,Bangalore
+1216,,66332.01,796.0,215635.87,36,Salaried,Bachelor's,0,0,Bangalore
+1217,41.0,35662.16,673.0,42294.3,60,Salaried,Bachelor's,0,0,Pune
+1218,32.0,30463.25,769.0,6577.37,24,Self-employed,,0,0,Delhi
+1219,71.0,45971.72,707.0,49152.02,48,Salaried,Master's,0,1,Bangalore
+1220,49.0,26340.28,717.0,36494.86,24,Salaried,Bachelor's,1,1,Hyderabad
+1221,49.0,35165.14,726.0,75493.53,48,Salaried,Master's,0,3,Pune
+1222,41.0,23891.39,716.0,46098.93,36,Salaried,Bachelor's,0,3,Delhi
+1223,58.0,159346.3,731.0,24082.37,36,Salaried,Bachelor's,0,3,Delhi
+1224,69.0,50069.04,786.0,10102.73,36,Self-employed,Master's,0,2,Chennai
+1225,66.0,32214.27,696.0,22760.49,36,Unemployed,Bachelor's,0,0,Delhi
+1226,66.0,55736.36,737.0,13623.94,12,Salaried,Bachelor's,1,0,Bangalore
+1227,69.0,45825.83,673.0,16908.66,12,Self-employed,High School,1,3,Bangalore
+1228,29.0,42933.95,795.0,43082.09,60,Salaried,Bachelor's,0,1,Pune
+1229,56.0,70862.74,626.0,102326.46,24,Freelance,Master's,0,5,Pune
+1230,19.0,77227.02,824.0,36891.53,48,Freelance,Master's,0,3,Delhi
+1231,20.0,35656.95,677.0,10335.02,48,Freelance,Master's,0,1,Hyderabad
+1232,66.0,34700.49,,38394.99,12,Unemployed,Master's,0,1,Mumbai
+1233,54.0,41563.14,690.0,70073.87,48,Salaried,,0,1,Chennai
+1234,66.0,12318.37,626.0,16517.47,12,Freelance,Bachelor's,0,2,Mumbai
+1235,34.0,19749.54,747.0,24168.04,60,Self-employed,High School,0,3,Delhi
+1236,66.0,111315.59,628.0,27221.18,24,Salaried,Bachelor's,0,4,Delhi
+1237,19.0,131528.74,,14358.27,60,Unemployed,Bachelor's,1,0,Mumbai
+1238,19.0,42217.0,529.0,45189.69,36,Salaried,PhD,0,1,Chennai
+1239,45.0,69281.57,644.0,24422.04,36,Self-employed,Bachelor's,0,0,Mumbai
+1240,71.0,59086.05,486.0,37632.6,36,Salaried,Bachelor's,0,0,Pune
+1241,40.0,310931.68,553.0,13226.88,60,Salaried,Bachelor's,1,1,Bangalore
+1242,54.0,95965.59,741.0,18958.99,48,Self-employed,Bachelor's,1,0,Hyderabad
+1243,49.0,45399.19,743.0,47949.57,24,Self-employed,Master's,0,1,Pune
+1244,50.0,27630.51,714.0,19964.95,36,Salaried,Bachelor's,0,1,Bangalore
+1245,18.0,18697.26,603.0,107105.66,36,Salaried,Bachelor's,0,2,Hyderabad
+1246,36.0,55385.78,676.0,19541.41,36,Freelance,Master's,0,1,Hyderabad
+1247,19.0,31138.17,680.0,32200.84,24,Salaried,Bachelor's,0,4,Hyderabad
+1248,70.0,20882.1,,56730.81,36,Salaried,Bachelor's,0,1,Delhi
+1249,61.0,33258.19,800.0,8649.94,24,Freelance,Master's,0,3,Hyderabad
+1250,43.0,25618.53,,6577.12,36,Freelance,Master's,0,1,Chennai
+1251,49.0,134899.45,662.0,7938.46,60,Salaried,High School,0,0,Mumbai
+1252,23.0,83198.44,682.0,73870.39,60,Self-employed,Master's,1,1,Chennai
+1253,49.0,48786.87,697.0,17300.89,24,Freelance,Master's,0,2,Mumbai
+1254,21.0,119129.51,517.0,208263.51,60,Freelance,Bachelor's,0,2,Pune
+1255,28.0,51350.04,660.0,17130.26,24,Salaried,PhD,0,5,Pune
+1256,34.0,29238.15,625.0,31183.4,60,Salaried,Master's,0,1,Mumbai
+1257,55.0,122256.24,,92382.05,60,Salaried,Master's,0,1,Chennai
+1258,41.0,67734.17,658.0,133903.45,24,Salaried,Master's,0,2,Mumbai
+1259,22.0,26308.63,824.0,139972.73,48,Self-employed,High School,1,2,Hyderabad
+1260,69.0,43730.31,731.0,70734.8,60,Salaried,Bachelor's,0,1,Delhi
+1261,51.0,28987.76,634.0,61037.89,36,Self-employed,Bachelor's,0,1,Pune
+1262,23.0,21382.33,726.0,43218.4,48,Salaried,Bachelor's,1,0,Delhi
+1263,39.0,85451.7,792.0,50145.74,24,Salaried,Bachelor's,0,3,Hyderabad
+1264,28.0,154145.15,,17310.2,48,Freelance,Master's,0,3,Hyderabad
+1265,65.0,21180.99,685.0,13980.81,12,Salaried,Master's,0,1,Pune
+1266,33.0,68719.04,628.0,26830.66,12,Salaried,Bachelor's,0,2,Pune
+1267,50.0,33177.08,736.0,23478.78,60,Freelance,Master's,0,1,Hyderabad
+1268,26.0,36597.12,711.0,18721.31,60,Salaried,Master's,0,3,Bangalore
+1269,23.0,34357.09,752.0,46962.75,36,Self-employed,Bachelor's,0,2,Delhi
+1270,33.0,29190.7,731.0,57771.11,48,Self-employed,Bachelor's,0,1,Delhi
+1271,46.0,50468.92,764.0,28874.83,12,Salaried,Bachelor's,0,0,Bangalore
+1272,20.0,29775.16,637.0,87730.43,60,Freelance,Master's,0,1,Chennai
+1273,37.0,57657.41,785.0,10792.95,48,Salaried,Bachelor's,0,2,Delhi
+1274,53.0,47565.22,696.0,23041.97,60,Salaried,Master's,1,1,Mumbai
+1275,36.0,42473.31,846.0,15161.92,60,Salaried,High School,0,1,Hyderabad
+1276,43.0,28437.44,625.0,6043.69,12,Salaried,Master's,0,1,Hyderabad
+1277,20.0,34680.65,819.0,25181.26,12,Freelance,Master's,1,4,Bangalore
+1278,36.0,77129.01,696.0,24406.43,60,Salaried,Master's,0,2,Delhi
+1279,37.0,66207.59,,90288.0,24,Salaried,PhD,0,2,Chennai
+1280,49.0,27267.94,641.0,44562.56,60,Salaried,Master's,0,3,Delhi
+1281,24.0,52031.23,654.0,11856.73,60,Self-employed,Master's,0,1,Hyderabad
+1282,69.0,76943.93,,118571.81,36,Salaried,PhD,0,1,Pune
+1283,58.0,18004.14,722.0,71455.27,36,Salaried,Master's,0,1,Mumbai
+1284,50.0,67915.27,634.0,42859.31,36,Self-employed,Master's,0,0,Bangalore
+1285,57.0,32939.43,678.0,22444.77,24,Salaried,High School,0,2,Pune
+1286,56.0,69034.33,850.0,12487.07,24,Salaried,Bachelor's,1,1,Chennai
+1287,35.0,31009.36,818.0,19974.96,60,Salaried,Bachelor's,0,0,Pune
+1288,57.0,16598.55,715.0,64279.68,36,Salaried,Bachelor's,1,0,Pune
+1289,18.0,18462.09,683.0,121499.94,24,Freelance,Bachelor's,0,2,Chennai
+1290,28.0,50455.7,690.0,92465.86,12,Salaried,PhD,1,4,Pune
+1291,45.0,57287.26,,18195.33,60,Salaried,Master's,0,3,Bangalore
+1292,42.0,28492.89,598.0,10985.22,48,Salaried,Master's,0,1,Hyderabad
+1293,67.0,71908.91,659.0,30112.9,60,Self-employed,Bachelor's,0,3,Delhi
+1294,40.0,18089.52,547.0,6537.1,48,Self-employed,High School,0,1,Pune
+1295,48.0,47115.26,712.0,34840.44,36,Salaried,High School,0,2,Bangalore
+1296,47.0,23703.79,,23906.79,48,Self-employed,Bachelor's,1,0,Delhi
+1297,59.0,33153.33,641.0,18530.45,36,Self-employed,High School,1,1,Delhi
+1298,52.0,50434.93,806.0,7511.85,12,Freelance,High School,0,2,Pune
+1299,24.0,29253.43,582.0,40573.89,48,Freelance,Master's,0,2,Bangalore
+1300,33.0,38920.12,563.0,17568.09,60,Salaried,Master's,0,3,Hyderabad
+1301,43.0,89659.61,698.0,10551.96,36,Salaried,Bachelor's,0,2,Pune
+1302,65.0,34678.14,764.0,2703.2,60,Salaried,High School,0,3,Chennai
+1303,69.0,80936.1,815.0,26317.47,24,Salaried,Bachelor's,0,4,Delhi
+1304,66.0,24888.87,643.0,111057.27,36,Unemployed,High School,1,4,Pune
+1305,19.0,67365.11,766.0,101621.19,48,Salaried,PhD,0,3,Delhi
+1306,18.0,116417.85,,18663.46,36,Salaried,Bachelor's,0,3,Bangalore
+1307,65.0,11125.7,666.0,16617.81,60,Self-employed,Bachelor's,0,3,Mumbai
+1308,29.0,30389.82,751.0,39144.66,12,Salaried,Bachelor's,0,1,Pune
+1309,22.0,69302.99,732.0,12104.0,36,Salaried,High School,0,1,Hyderabad
+1310,54.0,43398.18,554.0,34249.71,48,Salaried,,0,1,Pune
+1311,49.0,61248.06,798.0,49655.49,24,Salaried,Master's,1,1,Delhi
+1312,26.0,34118.97,790.0,71793.31,12,Self-employed,Master's,0,1,Bangalore
+1313,58.0,51634.94,630.0,24831.71,24,Salaried,High School,0,3,Chennai
+1314,52.0,44649.29,712.0,22858.1,36,Salaried,Bachelor's,1,0,Hyderabad
+1315,36.0,98781.86,720.0,13327.89,60,Salaried,Bachelor's,0,0,Bangalore
+1316,65.0,57105.32,701.0,13884.05,60,Salaried,Master's,0,1,Pune
+1317,33.0,60027.71,636.0,22444.86,48,Self-employed,Bachelor's,0,1,Chennai
+1318,20.0,38287.31,626.0,36094.38,60,Salaried,Bachelor's,0,2,Bangalore
+1319,37.0,36586.56,678.0,55874.74,12,Salaried,Bachelor's,0,2,Mumbai
+1320,41.0,37815.15,774.0,14149.82,60,Freelance,Bachelor's,0,3,Hyderabad
+1321,71.0,62110.56,723.0,88800.79,48,Self-employed,,0,1,Delhi
+1322,50.0,38078.66,650.0,21657.37,36,Salaried,Bachelor's,0,0,Bangalore
+1323,,58329.6,,26447.22,36,Self-employed,Bachelor's,0,2,Bangalore
+1324,69.0,170286.99,452.0,14797.75,60,Self-employed,Master's,0,1,Mumbai
+1325,28.0,82675.19,772.0,3868.44,24,Self-employed,Bachelor's,0,1,Pune
+1326,66.0,40311.25,,54569.82,36,Salaried,PhD,0,0,Hyderabad
+1327,25.0,,,48507.57,60,Unemployed,Bachelor's,0,2,Hyderabad
+1328,53.0,38374.74,590.0,21481.3,48,Salaried,,0,0,Delhi
+1329,55.0,14430.87,576.0,28384.33,60,Salaried,Master's,1,1,Bangalore
+1330,57.0,26772.97,773.0,40649.89,36,Salaried,Bachelor's,1,0,Chennai
+1331,37.0,15954.96,643.0,7707.61,48,Salaried,Master's,0,1,Bangalore
+1332,52.0,39699.42,,17619.44,60,Freelance,High School,0,2,Delhi
+1333,65.0,49565.54,676.0,406302.56,12,Salaried,Master's,0,2,Bangalore
+1334,42.0,134035.82,718.0,9863.22,48,Salaried,Bachelor's,0,2,Mumbai
+1335,52.0,,686.0,34024.85,12,Freelance,High School,0,1,Bangalore
+1336,42.0,42982.13,577.0,9088.22,24,Salaried,Bachelor's,1,6,Bangalore
+1337,46.0,80631.39,760.0,39071.32,48,Salaried,PhD,0,1,Chennai
+1338,35.0,13007.99,,26146.92,12,Salaried,High School,0,2,Mumbai
+1339,63.0,56464.58,555.0,7390.09,36,Salaried,Bachelor's,0,0,Mumbai
+1340,35.0,77848.44,646.0,68308.64,36,Salaried,Master's,1,2,Bangalore
+1341,19.0,20188.09,800.0,14947.91,24,Self-employed,Master's,0,2,Hyderabad
+1342,71.0,97367.95,,14069.97,48,Salaried,Bachelor's,1,0,Chennai
+1343,52.0,60059.91,652.0,31585.56,48,Salaried,Bachelor's,0,0,Bangalore
+1344,33.0,38209.03,652.0,67434.35,48,Self-employed,High School,0,2,Bangalore
+1345,58.0,71658.65,654.0,11936.34,24,Self-employed,Bachelor's,0,1,Delhi
+1346,53.0,191456.46,846.0,28263.99,48,Salaried,Bachelor's,0,1,Delhi
+1347,50.0,54672.7,,37913.15,36,Salaried,PhD,0,2,Hyderabad
+1348,21.0,56893.27,714.0,46839.61,12,Salaried,High School,0,3,Chennai
+1349,50.0,37211.88,762.0,30981.74,36,Salaried,Master's,0,2,Pune
+1350,31.0,29439.52,699.0,20057.89,36,Salaried,High School,0,0,Delhi
+1351,38.0,80676.41,659.0,13876.16,12,Salaried,High School,0,0,Pune
+1352,65.0,29329.52,664.0,28822.6,36,Freelance,Bachelor's,0,1,Mumbai
+1353,37.0,51171.59,674.0,11410.49,24,Salaried,Bachelor's,0,1,Delhi
+1354,25.0,36805.61,677.0,20792.8,12,Self-employed,Master's,0,4,Delhi
+1355,24.0,65341.84,738.0,38148.73,36,Salaried,Master's,0,2,Chennai
+1356,20.0,59885.95,684.0,55445.06,60,Self-employed,Bachelor's,0,3,Hyderabad
+1357,34.0,91356.43,739.0,4062.91,36,Self-employed,PhD,0,0,Pune
+1358,50.0,36097.91,674.0,11994.64,24,Freelance,Master's,0,2,Delhi
+1359,65.0,41692.44,686.0,44148.91,48,Salaried,Bachelor's,0,0,Delhi
+1360,29.0,27248.17,520.0,139524.62,36,Self-employed,Master's,0,2,Chennai
+1361,68.0,37549.83,753.0,27354.46,48,Salaried,Bachelor's,0,1,Chennai
+1362,39.0,61474.66,708.0,15026.91,60,Self-employed,High School,0,2,Hyderabad
+1363,39.0,77202.97,760.0,23241.22,36,Salaried,Master's,0,3,Pune
+1364,63.0,28189.39,448.0,80813.65,12,Salaried,High School,0,0,Mumbai
+1365,47.0,,847.0,16046.22,48,Salaried,Bachelor's,0,1,Hyderabad
+1366,55.0,110567.64,669.0,14195.02,60,Salaried,Master's,0,5,Mumbai
+1367,55.0,62822.02,769.0,18284.43,12,Salaried,High School,0,1,Bangalore
+1368,62.0,151157.48,597.0,12548.26,12,Salaried,Bachelor's,0,0,Delhi
+1369,68.0,30814.06,729.0,29677.26,12,Unemployed,Master's,0,0,Pune
+1370,,23230.17,596.0,98690.38,12,Self-employed,Bachelor's,0,2,Hyderabad
+1371,25.0,,630.0,34837.98,36,Unemployed,Bachelor's,0,3,Delhi
+1372,44.0,120285.89,833.0,21985.03,36,Salaried,Master's,1,0,Pune
+1373,44.0,72592.68,665.0,21301.89,36,Freelance,Bachelor's,0,4,Pune
+1374,51.0,47412.88,697.0,7703.63,60,Freelance,Bachelor's,0,0,Pune
+1375,38.0,,750.0,54528.99,60,Self-employed,PhD,0,1,Delhi
+1376,47.0,24951.93,720.0,25279.02,60,Self-employed,Master's,0,1,Hyderabad
+1377,50.0,,692.0,23286.2,24,Salaried,Bachelor's,0,0,Chennai
+1378,45.0,52972.74,709.0,346101.05,60,Freelance,Master's,0,1,Delhi
+1379,64.0,52346.32,850.0,34166.55,36,Salaried,Master's,0,1,Pune
+1380,50.0,75770.17,675.0,14743.64,36,Salaried,High School,0,2,Hyderabad
+1381,22.0,65421.45,696.0,19128.1,24,Salaried,Bachelor's,1,2,Bangalore
+1382,65.0,56068.55,764.0,67424.02,24,Freelance,Bachelor's,0,3,Mumbai
+1383,,30507.12,768.0,29454.92,60,Freelance,Master's,0,0,Pune
+1384,21.0,65048.02,775.0,8513.24,48,Unemployed,Bachelor's,0,2,Bangalore
+1385,52.0,151632.44,731.0,56127.61,24,Self-employed,Bachelor's,0,3,Chennai
+1386,66.0,109891.86,,15764.01,12,Salaried,PhD,0,1,Pune
+1387,34.0,127505.14,,120407.63,36,Salaried,Master's,0,0,Bangalore
+1388,61.0,36071.94,588.0,63833.82,12,Salaried,High School,1,1,Pune
+1389,45.0,27071.51,704.0,18809.97,36,Salaried,Bachelor's,0,1,Delhi
+1390,47.0,45457.26,620.0,74967.73,36,Salaried,Bachelor's,0,1,Hyderabad
+1391,46.0,50687.52,675.0,28403.98,24,Salaried,Bachelor's,0,1,Bangalore
+1392,63.0,94515.1,,53221.56,24,Salaried,Master's,0,3,Hyderabad
+1393,70.0,17756.75,,39647.62,12,Freelance,Master's,1,1,Delhi
+1394,23.0,122728.54,714.0,13669.4,36,Salaried,Bachelor's,0,1,Delhi
+1395,52.0,44586.9,809.0,16077.24,12,Freelance,Bachelor's,0,2,Hyderabad
+1396,58.0,37944.18,716.0,61326.58,48,Self-employed,Master's,0,2,Bangalore
+1397,54.0,26708.51,660.0,20582.16,12,Salaried,Bachelor's,0,2,Hyderabad
+1398,41.0,18161.99,757.0,19478.79,60,Salaried,High School,0,2,Hyderabad
+1399,46.0,80330.31,775.0,12530.26,12,Salaried,Bachelor's,0,2,Mumbai
+1400,66.0,51225.4,582.0,37755.23,60,Salaried,High School,1,2,Bangalore
+1401,63.0,22607.19,728.0,140087.14,60,Self-employed,PhD,0,2,Mumbai
+1402,70.0,22537.88,736.0,11452.62,60,Salaried,High School,0,3,Pune
+1403,48.0,40075.85,,27429.53,48,Salaried,Bachelor's,0,1,Hyderabad
+1404,52.0,133440.76,790.0,83264.41,12,Salaried,Bachelor's,0,3,Pune
+1405,50.0,41950.48,668.0,25242.56,12,Unemployed,PhD,0,0,Bangalore
+1406,69.0,,690.0,38634.36,48,Self-employed,High School,0,1,Hyderabad
+1407,38.0,42300.5,666.0,11499.8,36,Self-employed,High School,0,0,Pune
+1408,49.0,41621.24,681.0,37897.7,24,Salaried,High School,0,1,Chennai
+1409,40.0,9719.29,592.0,23162.38,12,Self-employed,High School,0,0,Delhi
+1410,50.0,47449.59,565.0,473556.08,24,Self-employed,Bachelor's,1,1,Hyderabad
+1411,20.0,42678.02,808.0,69557.49,48,Self-employed,Bachelor's,0,0,Delhi
+1412,35.0,74438.15,612.0,213555.26,36,Unemployed,Bachelor's,0,1,Mumbai
+1413,42.0,148653.54,601.0,42774.89,36,Salaried,High School,0,1,Pune
+1414,59.0,96368.92,508.0,34913.79,36,Freelance,Master's,0,5,Mumbai
+1415,48.0,41717.12,629.0,31429.66,48,Freelance,Bachelor's,0,0,Hyderabad
+1416,71.0,25237.45,574.0,20281.55,60,Salaried,Bachelor's,0,2,Delhi
+1417,20.0,229582.08,811.0,35269.97,60,Salaried,Bachelor's,0,0,Delhi
+1418,57.0,50793.88,761.0,21240.79,24,Unemployed,,0,2,Pune
+1419,63.0,49432.21,,30784.57,60,Salaried,High School,0,1,Hyderabad
+1420,41.0,48316.33,850.0,77194.08,60,Salaried,Master's,1,1,Chennai
+1421,,55207.32,759.0,12025.27,36,Unemployed,Master's,0,2,Chennai
+1422,49.0,44953.49,654.0,66963.49,36,Self-employed,High School,0,2,Pune
+1423,64.0,34745.41,,77164.29,24,Salaried,PhD,0,1,Hyderabad
+1424,39.0,35308.7,,24478.37,12,Self-employed,Bachelor's,0,1,Pune
+1425,40.0,48066.85,569.0,4927.15,24,Salaried,High School,0,4,Hyderabad
+1426,19.0,35381.53,548.0,16543.4,24,Salaried,Master's,0,2,Mumbai
+1427,44.0,31961.67,762.0,75932.16,48,Salaried,Master's,0,4,Pune
+1428,59.0,52253.29,850.0,26415.48,48,Self-employed,Bachelor's,0,1,Hyderabad
+1429,19.0,42066.78,791.0,12095.13,24,Salaried,High School,0,1,Chennai
+1430,43.0,120860.93,725.0,17964.99,24,Self-employed,Bachelor's,0,0,Hyderabad
+1431,34.0,9990.78,728.0,52706.6,24,Self-employed,Master's,0,1,Hyderabad
+1432,57.0,94362.98,748.0,41663.76,60,Salaried,Bachelor's,0,2,Pune
+1433,50.0,103533.56,741.0,22222.36,48,Self-employed,Bachelor's,0,1,Mumbai
+1434,26.0,14128.73,702.0,20061.15,24,Salaried,High School,0,1,Mumbai
+1435,60.0,39910.21,688.0,19664.96,36,Self-employed,High School,0,1,Mumbai
+1436,71.0,,,12862.51,36,Salaried,Master's,0,2,Mumbai
+1437,65.0,21067.63,620.0,97958.63,60,Freelance,Bachelor's,0,3,Bangalore
+1438,56.0,30739.69,658.0,20788.26,60,Salaried,PhD,0,1,Pune
+1439,46.0,25176.2,545.0,71234.09,12,Salaried,Bachelor's,0,1,Delhi
+1440,59.0,140275.31,672.0,90857.97,12,Self-employed,Master's,0,0,Pune
+1441,43.0,85940.2,,59793.29,12,Salaried,Bachelor's,0,2,Bangalore
+1442,52.0,105127.91,592.0,19047.74,60,Salaried,Bachelor's,0,1,Mumbai
+1443,67.0,,694.0,37159.85,60,Self-employed,,0,1,Bangalore
+1444,42.0,24898.65,791.0,26387.44,60,Self-employed,Bachelor's,0,3,Chennai
+1445,,35785.13,753.0,13056.46,36,Self-employed,Bachelor's,0,1,Chennai
+1446,30.0,65750.64,554.0,34873.67,60,Salaried,PhD,0,2,Pune
+1447,24.0,23546.28,601.0,10475.22,36,Self-employed,Master's,1,1,Pune
+1448,53.0,75191.92,755.0,69573.81,12,Salaried,High School,0,1,Delhi
+1449,62.0,42438.22,601.0,18551.5,12,Self-employed,High School,0,1,Delhi
+1450,37.0,,,31600.48,12,Self-employed,High School,1,1,Chennai
+1451,18.0,75100.01,724.0,33746.44,24,Salaried,Bachelor's,1,4,Mumbai
+1452,25.0,63994.86,603.0,21870.11,24,Salaried,Master's,0,2,Bangalore
+1453,63.0,39474.9,688.0,43017.19,48,Salaried,PhD,0,1,Delhi
+1454,33.0,98282.17,573.0,18399.47,48,Salaried,High School,0,2,Hyderabad
+1455,31.0,25625.98,632.0,54016.12,48,Salaried,Bachelor's,0,3,Delhi
+1456,29.0,70937.99,706.0,9165.63,24,Salaried,Bachelor's,0,2,Mumbai
+1457,68.0,69972.72,553.0,29765.45,24,Self-employed,Master's,0,1,Mumbai
+1458,40.0,40711.75,715.0,126898.55,48,Salaried,Bachelor's,0,3,Pune
+1459,32.0,59616.03,678.0,12085.18,48,Freelance,Master's,1,3,Bangalore
+1460,45.0,23140.32,,15643.39,60,Salaried,Master's,0,2,Mumbai
+1461,51.0,85341.51,698.0,40583.88,48,Self-employed,High School,0,0,Delhi
+1462,19.0,43873.19,789.0,31059.67,60,Self-employed,Master's,0,2,Delhi
+1463,49.0,35823.74,690.0,35614.36,36,Salaried,High School,0,0,Chennai
+1464,40.0,91987.28,646.0,39789.16,24,Salaried,Master's,0,0,Mumbai
+1465,39.0,32125.13,690.0,44702.16,48,Self-employed,Bachelor's,0,2,Hyderabad
+1466,68.0,21055.63,723.0,65366.15,24,Salaried,Bachelor's,0,3,Pune
+1467,42.0,19264.56,684.0,37341.29,24,Freelance,Master's,0,0,Bangalore
+1468,39.0,70516.78,683.0,22181.06,24,Salaried,Master's,0,3,Hyderabad
+1469,39.0,22736.85,624.0,46076.53,36,Freelance,Master's,1,0,Pune
+1470,66.0,,627.0,122995.81,12,Salaried,Bachelor's,0,0,Delhi
+1471,69.0,14056.53,568.0,24194.8,48,Self-employed,Master's,0,2,Hyderabad
+1472,59.0,135655.49,820.0,12337.23,12,Self-employed,Bachelor's,0,1,Pune
+1473,23.0,55637.38,580.0,65229.33,12,Self-employed,Master's,0,0,Delhi
+1474,32.0,46257.19,625.0,24433.12,12,Salaried,Bachelor's,0,1,Delhi
+1475,71.0,,,4730.87,24,Self-employed,PhD,0,2,Delhi
+1476,60.0,,752.0,52994.18,60,Salaried,PhD,0,0,Delhi
+1477,54.0,47926.28,656.0,17531.2,24,Self-employed,Master's,1,3,Delhi
+1478,50.0,95033.16,780.0,25023.57,24,Salaried,Bachelor's,0,0,Chennai
+1479,25.0,52498.33,626.0,35086.94,12,Freelance,High School,0,0,Hyderabad
+1480,70.0,53647.01,702.0,31332.14,24,Salaried,Master's,0,0,Pune
+1481,61.0,39412.28,613.0,47456.15,12,Freelance,High School,0,2,Chennai
+1482,61.0,47374.18,850.0,18988.92,60,Freelance,Master's,0,1,Chennai
+1483,22.0,58963.92,585.0,40557.85,48,Freelance,Bachelor's,0,0,Mumbai
+1484,56.0,17569.14,705.0,21858.88,12,Salaried,Bachelor's,0,4,Mumbai
+1485,21.0,21831.05,731.0,48583.94,60,Salaried,Master's,0,3,Mumbai
+1486,23.0,76569.83,713.0,44015.36,48,Unemployed,,0,1,Bangalore
+1487,62.0,54313.02,665.0,12729.14,36,Salaried,Bachelor's,0,1,Mumbai
+1488,49.0,43897.38,670.0,64137.58,12,Salaried,Bachelor's,0,2,Pune
+1489,69.0,49566.0,684.0,17522.29,12,Self-employed,Bachelor's,0,1,Chennai
+1490,47.0,60388.2,668.0,51351.34,36,Self-employed,Master's,0,5,Pune
+1491,64.0,35459.42,757.0,36092.12,36,Salaried,Bachelor's,0,2,Hyderabad
+1492,52.0,,850.0,117072.3,12,Self-employed,PhD,1,0,Mumbai
+1493,57.0,55133.19,635.0,22499.02,36,Freelance,Master's,0,0,Bangalore
+1494,69.0,,570.0,20344.11,24,Salaried,Bachelor's,0,0,Hyderabad
+1495,33.0,,673.0,26488.46,48,Freelance,Master's,1,3,Bangalore
+1496,30.0,17649.27,850.0,21109.03,48,Salaried,Bachelor's,0,1,Hyderabad
+1497,67.0,90898.01,616.0,51019.01,48,Salaried,Bachelor's,1,4,Chennai
+1498,59.0,65092.1,811.0,7383.12,24,Salaried,PhD,1,3,Pune
+1499,47.0,57160.47,814.0,11580.22,36,Salaried,High School,0,3,Delhi
+1500,36.0,88398.88,636.0,11450.14,60,Freelance,Bachelor's,0,2,Pune
