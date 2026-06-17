@@ -31,46 +31,8 @@
 
 ---
 
-## Quickstart
-
-```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/eda-report-generator.git
-cd eda-report-generator
-
-# 2. Create virtual environment
-python -m venv venv
-source venv/bin/activate        # Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the app
-streamlit run app.py
-```
-
 Open http://localhost:8501 and upload `demo_loan_data.csv` to see it in action.
 
----
-
-## Deploy to Streamlit Cloud (free)
-
-1. Push this repo to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub repo → select `app.py`
-4. Click **Deploy** — you get a public URL in ~60 seconds
-
----
-
-## Project structure
-
-```
-eda-report-generator/
-├── app.py                  # Main Streamlit application
-├── requirements.txt        # Python dependencies
-├── demo_loan_data.csv      # Sample dataset (500 rows, 11 columns)
-└── README.md
-```
 
 ---
 
@@ -91,5 +53,3 @@ eda-report-generator/
 - Designing tools that **non-technical stakeholders** can actually use
 
 ---
-
-*Built as a portfolio project to demonstrate tool-building skills beyond notebook analysis.*
